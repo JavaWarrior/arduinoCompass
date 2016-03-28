@@ -1,0 +1,9 @@
+### Required libraries to run this code:
+
+*lsm303 sensor library:* https://github.com/pololu/lsm303-arduino/tree/master/LSM303
+
+*adafruit nokia 5110 lcd library:* https://github.com/adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library
+
+*adafruit GFX library:* https://github.com/adafruit/Adafruit-GFX-Library
+
+download .zip file then open arduino IDE and select sketch menu > include library > add .ZIP library.
